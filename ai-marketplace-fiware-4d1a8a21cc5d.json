@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ai-marketplace-fiware",
+  "private_key_id": "4d1a8a21cc5d33dee8717ce9ce48c5df402d9469",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0JPXV3atKFA3G\nhMRLpm0bryfsNtsUCZbdFEBgXwXFfOf45EqbxT4/Nb98snE+cNze15zaHbF691lH\nmhbTMD7jbhEuegz6p0hLTfve2gTMoffipJTZJdZhkvwVApcLWk86fSX3T/BWzpPb\n2hwAVpN5+PDmNQUg0YJDlFF7uJ4fFKthIJmOw07vXePQmenCXZwQTHqqyIYXQoLO\nXdbLMAwA9Ilon7wPMbNdQPnLwWmHfnZmu+YyiZeRIUV3bteUyug8DMWjHzhliUdF\ngRQPKvLoSMt9yWmJYciEXncdT7MYoyoZcmjBdm3RwmRwP5VnTqfD5I5IQZ8zZIT/\n6qzI+mUxAgMBAAECggEADokq8wewzMiYd0vQQQsb+Q9lnnMAs3m18X8zAJ5k61Nn\nA8Ims7IIkfYmzjY3MA17Alo4ibBlWUxAfn1prmnRW+2jjPID6RfQHA9zWD8/AuS7\niU9exAorEHLZTLgJnby68Y0WoAGUcuoMAUH0tMxHmHXPY8FPJB+eWLtM5eRMPKqo\nkSg2li9ddRVy/6LHsJL9uHOwcYgrlFE5YwCpAKoWpFcEmtp7iRIRBaJipE7QN0oW\nqwiLMCx4DNVHFSOZLJoTqUEXPb17ZTy64enLAM9ZhDqScPa1ycPUkS3SUMExNhAK\nAL27FHiukqkaivlnJR4FoT25Kjm1jDetLj1Q71RSBwKBgQDxvmxE+LTDQ4rYk0P3\nyLRU5Ip8nvknUt9vnZCtcvDqEqCSNmiAc5BwpIbybtQOWlOgiVTHb8veg/8ctQKA\naDpZdbmBpXSLKEHFQ3JOY83K3l0cvIsT9KL0LKCcCxe6XTCdqN4acH2lPigu4wGG\nvMLoXxCKibK9x0EPGo+1ge9iTwKBgQC+xJPsnVIWNPVOXS0OKCqZW5Em2mTjFpzf\n6dq1Pexecmgnvc9LP/Xw+s1+Cewg7RsvVjMb6w8a9kSfhW8b4umzNAzm4/uDyjHW\nrZ9JvCEB4TxfsxvIFoTNVsdga7pyOpmrMuTJwH7mtAldYZyMO4zEttugqvM6sacH\nEsvbjDVgfwKBgQDdLQUwIYB5Or25IxvHg9kB5suR830v7lHBdB7fos8qyfohbCg2\nhgU8GjvhaWcY7qmesqdfhTi4kHoDkNUGGNZx7RTZukCj5SQv0GKvt/6cQtBcL2Dr\n1CKXVpFn03pVJ1gIl20GMa+zVOg85bMKzH9jTT78Ebn4impK4FlljskvXwKBgCGS\nHGn+QWzRAv44XW5pWR3FxGRu+GQSHac10xwj+o2gWn3r5Cfc6J3wtOriOiCNOUR6\nSeI22mCnR+o+pA/nPbMgjMixBBjsIxshUK+8IJ7hESvSLCho9hPgmpN4QcZKU7KR\n8Tsj2fEla6R4QgFXlW0ktL+wdb81dixDfYZ0RQxnAoGBAJaNZDnLrxkntuz52cVH\nMIDi+g/tA7vKXNI6uGSx8kWCVonOBxoqCRTAi+kWcBPUvOEgUdl5EBlwqVuh+MRS\njbsV/1lods6NHKCgXEYXyE32VHt2MvVa1ZAs37wR3bLbMcNzGEC0n+CHw4RHV3DG\niHf5xx9yVB/xkrjkcaTXLHl0\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@ai-marketplace-fiware.iam.gserviceaccount.com",
+  "client_id": "103990876020296976702",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40ai-marketplace-fiware.iam.gserviceaccount.com"
+}
